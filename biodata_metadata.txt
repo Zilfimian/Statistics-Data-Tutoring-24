@@ -1,0 +1,23 @@
+Biodata description:
+Number of Instances:  381
+Target variable:  class
+                        id              -       id 
+			age		-	age (age in years) 	
+			bp		-	blood pressure (bp in mm/Hg)
+			su		-	sugar {0,1,2,3,4,5}
+			rbc		-	red blood cells {normal,abnormal}
+			ba		-	bacteria {present,notpresent}
+			bgr		-	blood glucose random (mgs/dl)
+			sod		-	sodium (mEq/L)
+			pot		-	potassium (mEq/L)
+			hemo		-	hemoglobin (gms)
+			wbcc		-	white blood cell count (cells/cumm)
+			rbcc		-	red blood cell count (millions/cmm)
+			htn		-	hypertension {yes,no}
+			dm		-	diabetes mellitus {yes,no}
+			cad		-	coronary artery disease {yes,no}
+			appet		-	appetite {good,poor}
+			ane		-	anemia {yes,no}
+			class		-	presence of chronic kidney disease {ckd:1,notckd:0}
+
+Missing Attribute Values: Yes(Denoted by "?") 
