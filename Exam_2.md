@@ -20,6 +20,15 @@ Calculate the average 'gross' for movies with cast Facebook likes less than 1000
   - Assign the letter 'B' to movies with oldness between 10 and 20.
   - Assign the letter 'C' to movies with oldness more than 20.
 Calculate the average of the variable 'gross' for each of the previous categories.
+The average of the variable 'gross' for the group A is (X Blank 13), the average of the variable 'gross' for the group B is (X Blank 14), and the average of the variable 'gross' for the group C is (X Blank 15) (for all values type a single number rounding up to 4 decimal places).
+- Q8 The variable 'duration' represents the duration of the movies. How many unique durations are there in the dataset? What is the maximum duration?
+There are (X Blank 16) unique durations in the dataset. The maximum duration is (X Blank 17) (in both cases type a single number).
+- Q9 Plot a histogram of the variable 'duration' using 5 bins. Describe the distribution.
+The distribution is (right-skewed/pretty symmetric/left-skewed) | X Blank 18) and (unimodal/bimodal/multimodal) (X Blank 19).
+- Q10 Sort the data using the variable ‘imdbRating’. What is the index value for the highest rated movie?
+The index of the highest rated movie is (X Blank 20) (type a single number).
+- Q11 Calculate the percentage of movies with an 'imdbRating' above 7.5. Repeat the analysis for movies with an 'imdbRating' below 5.0.
+The percentage of movies with an 'imdbRating' above 7.5 is (X Blank 21), and the percentage of movies with an 'imdbRating' below 5.0 is (X Blank 22) (for both values type a single number rounding up to 4 decimal places).
 
 ## Questions 2
 - Q1: The number of individuals with chronic kidney disease with normal red blood cells is (write the number, do not use decimals)
@@ -30,6 +39,31 @@ Calculate the average of the variable 'gross' for each of the previous categorie
 - Q6: The proportion of individuals with diabetes mellitus among those with chronic kidney disease is
 - Q7: Test if the proportion of individuals with diabetes mellitus among those with chronic kidney disease is less than 40%. (write: it is/it is not) Use alpha = 0.05.
 - Q8: Test if the proportion of individuals with diabetes mellitus among those with chronic kidney disease is more than 50%. (write: it is/it is not) Use alpha = 0.01.
+
+- Q9
+  -- a) What is the probability that the adjusted gross of a randomly selected movie lies between $66,000,000 and $74,000,000? (type a single number, round up to four decimal places)
+  -- b) What is the probability that the Metascore of a randomly selected movie is greater than 75? (type a single number, round up to four decimal places)
+
+  -- c) What is the probability that the duration of a randomly selected movie lies within 0.5 standard deviations of the mean? (type a single number, round up to four decimal places)
+
+  -- d) What is the probability that the IMDb rating of a randomly selected movie is exactly 5.2? (type a single number, round up to four decimal places)
+
+  -- e) What is the adjusted gross corresponding to the bottom 7%? The top 4%? (round up to four decimal places in both cases)
+
+  -- f) What is the z-score of a movie whose IMDb rating is 7.4?
+- Q10
+
+  -- a) What is the probability that the next movie will have a duration of exactly 83 minutes? (type a single number. Round up to four decimal places)
+
+  -- b) What is the probability that the next movie will have a Metascore within the next 102 minutes? (type a single number. Round up to four decimal places)
+
+  -- c) What is the probability that the next movie will have an IMDb rating between 4.7 and 5.2 minutes? (type a single number. Round up to four decimal places)
+
+  -- d) What is the probability that the next movie will have an IMDb rating of exactly 7.7? (type a single number. Round up to four decimal places)
+
+  -- e) What is the probability that the next movie will have a budget adjusted to be at least $40,000,000 if the average budget of movies is $60,000,000? (type a single number, round up to four decimal places)
+
+  -- f) What is the probability that the next movie will not have an Oscar nomination for at least 2 years? (type a single number, round up to four decimal places)
 
 ## Questions 3
 Using the whole sample, create a new variable that divides the individuals between those with high hemoglobin levels (individuals with hemoglobin levels above its average) and those with low hemoglobin levels (individuals with hemoglobin levels below or equal to its average). Then test if the average age is different in these two groups of individuals. Consider an alpha of 0.1 and respond to the following questions:
