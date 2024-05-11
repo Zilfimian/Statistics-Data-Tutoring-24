@@ -19,7 +19,7 @@ For the year 2002, the test statistic is (X Blank 7) and the p-value is (X Blank
 **Question 3**
 
 Consider the dataset provided, focusing on the variable 'gross_adjusted', which represents the adjusted gross of movies. Test whether the average adjusted gross of movies released in 2011 is different between those that won Oscar and that not. Clearly state the hypotheses and explain your results. Use an alpha level of 0.15 and report results rounded to four decimal places.
-For the year 1977, the test statistic is (X Blank 13) and the p-value is (X Blank 14), so we (reject/fail to reject) the null hypothesis and we conclude that the means are (the same/different).
+For the year 2011, the test statistic is (X Blank 13) and the p-value is (X Blank 14), so we (reject/fail to reject) the null hypothesis and we conclude that the means are (the same/different).
 
 **Questions 4**
 
