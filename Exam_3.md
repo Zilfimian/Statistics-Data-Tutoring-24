@@ -1,4 +1,5 @@
-Consider the movies_data dataset provided.
+*Consider the movies_data dataset provided.*
+
 **Question 1**
 Focusing on the variable 'oldness', which represents the age of the movies. Test whether the proportion of movies older than 10 years is greater than 0.5.
 Repeat the test for movies older than 20 years. 
