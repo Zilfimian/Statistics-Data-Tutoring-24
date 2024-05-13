@@ -1,17 +1,32 @@
 # Question 1
-Use movies data for this task.
 
-**a)** What is the probability that the next movie will have a duration of exactly 83 minutes? (type a single number. Round up to four decimal places)
+We’ll assume the mean duration is 120 minutes. SD = 15. Suppose duration is normally distributed variable.
 
-**b)** What is the probability that the next movie will have a Metascore within the next 102 minutes? (type a single number. Round up to four decimal places)
 
-**c)** What is the probability that the next movie will have an IMDb rating between 4.7 and 5.2 minutes? (type a single number. Round up to four decimal places)
+1.1 Probability that a randomly selected movie duration is between 115 and 125 minutes
 
-**d)** What is the probability that the next movie will have an IMDb rating of MORE THAN 7.7? (type a single number. Round up to four decimal places)
+1.2 Probability that a randomly selected movie duration is greater than 130 minutes
 
-**e)** What is the probability that the next movie will have a budget adjusted to be at least $40,000,000 if the average budget of movies is $60,000,000? (type a single number, round up to four decimal places)
+1.3 Probability that a movie duration lies within 0.75 standard deviations of the mean
 
-**f)** What is the probability that the next movie will not have an Oscar nomination for at least 2 years? (type a single number, round up to four decimal places)
+1.4 Probability that a movie duration is exactly 110 minutes
+
+1.5 Durations corresponding to the bottom 10% and 5%
+
+1.6 Z-score for a movie with a duration of 140 minutes
+
+
+**Suppose we’re dealing with the number of emails received per hour, and the average number of emails is 8.**
+
+1.7 Probability that the next email will arrive exactly 2 minutes from now:
+
+1.8 Probability that the next email will arrive without waiting for the next 5 minutes:
+
+1.9 Probability that no emails arrive for at least 3 minutes
+
+1.10 Probability that emails arrive between 1 and 4 minutes from now
+
+1.11 Probability that no emails arrive for at least 3 minutes (when the average number of emails received is 12 per hour):
 
 # Question 2
 Create a variable categorizing Oscars won into groups: 0, 1-3, 4-5, higher.
