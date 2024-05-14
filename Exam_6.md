@@ -47,6 +47,7 @@ Q15. We calculate p-values associated with the F-test statistic.
 Q16. We reject the null hypothesis or do not reject.
 
 Accept/Reject:
+
 Q17. If there is a statistically significant difference between Group A and Group B.
 
 Q18. Whether Group A and Group C have identical means.
