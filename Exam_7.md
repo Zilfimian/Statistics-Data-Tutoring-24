@@ -34,47 +34,47 @@ Can we determine if there are similarities in median prices between
 - 6-8 rooms groups compared to the 8+ rooms group
 - the 0-4 rooms and 6-8 rooms groups
 
-## Question 7
+## Question 9
 
 Provide the 99% confidence interval for the mean of median home values in the Boston housing dataset
 
-## Question 8
+## Question 10
 
 What is the standard error of the mean of median home values in the Boston housing dataset?
 
-## Question 9
+## Question 11
 
 What is the 95% confidence interval for the proportion of rooms with more than 4 rooms in the Boston housing dataset?
 
-## Question 10
+## Question 12
 
 Is there a significant difference in the median housing prices between areas along the Charles River (indicated by a dummy variable of 1) and those not along the river? 
  (alpha = 0.05)
  
-## Question 11
+## Question 13
 
 Are the proportions of housing units along the Charles River and those not along the river the same? (alpha = 0.05)
 
-## Question 12-14
+## Question 14-16
 In each of the following scenarios, determine if the data are paired.
 
  - A researcher wants to compare the effectiveness of two different study methods for learning vocabulary. They randomly assign 30 participants to one of the two study methods, and each participant learns a list of 50 words using their assigned method.
  - A company wants to determine whether there is a difference in customer satisfaction between two customer service representatives. They randomly select 50 customers who interacted with representative A and record their satisfaction scores, and then they select another random sample of 50 customers who interacted with representative B and record their satisfaction scores.
  - A gym owner wants to compare the effectiveness of two workout programs for improving strength. They recruit 20 participants and randomly assign each participant to one of the two workout programs. After six weeks, they measure the participants' strength gains.
 
-## Question 15
+## Question 17
 
 **Customer Satisfaction Survey Analysis**
 
 A retail company wants to gauge the satisfaction level of its customers regarding a new product. They conducted a survey among a sample of 600 customers, of which 420 expressed satisfaction with the product. Calculate the 99% confidence interval for the proportion of satisfied customers in the entire customer base.
 
-## Question 16
+## Question 18
 
 **Service Quality Evaluation**
 
 A service provider wishes to assess the quality of service provided to its clients. They randomly selected 200 clients from their database and found that 160 of them rated the service as excellent. Compute the 95% confidence interval for the proportion of clients who perceive the service as excellent across the entire client base.
 
-## Question 17
+## Question 19
 
 A manufacturing plant is interested in estimating the mean diameter of a certain component produced on their assembly line. They take a random sample of 80 components and measure their diameters (in millimeters). The population standard deviation of the diameters for all components produced by this plant is known to be 2.5 mm. Mean = 15. Calculate the 99% confidence interval for the mean diameter of the components.
 
